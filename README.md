@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta charset= 'utf-8'>
-<title>최홍일</title>
 <style>
 	h1{
 		margin: 50px;
